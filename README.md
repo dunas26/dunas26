@@ -65,6 +65,7 @@ Looking forward to learn:
 My preferred backend stack is:
 - ExpressJS
 - NestJS
+- Flask
 
 Looking forward to learn:
 - FastAPI
@@ -75,7 +76,8 @@ Looking forward to learn:
 My preferred database stack is:
 - MongoDB
 - MySQL
-- Postgres
+- Postgre
+- SQLite
 
 Looking forward to learn:
 - Redis
@@ -84,9 +86,14 @@ Looking forward to learn:
 
 My preferred deployment stack is:
 - Docker
+- Cloudflare
+- Heroku
+- AWS
 
 Looking forward to learn
 - Kubernettes
+- Vercel
+- Railway
 
 ### 🎖 Other tools
 
