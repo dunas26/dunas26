@@ -1,5 +1,9 @@
-<h1 align="center">Hello there 💫<br><p align="center">My name is John James Valencia<p/></h1>
+<h1 align="center">Hello there 💫<br>
+  <p align="center">My name is John James Valencia
+  </p>
+</h1>
 <h3 align="center">🔥 A software developer focused on software architecture. 🔥</h3>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,23 +14,24 @@
 <br>
 <br>
 
-
 - 🔭 I’m currently working on **learning theory about system building, code architecture, domain driven design.**
 - 💬 Ask me about **backend and frontend development, gamedev related stuff and 3D modeling**
 - 📫 How to reach me **jhonjamesillo@gmail.com**
 - 🦋 Thank you for reading.
+<br>
+
+#### Connect with me
+<p align="left" valign="bottom">
+  https://www.linkedin.com/in/johnjamesvalencia
+</p>
+<br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dunas26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dunas26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dunas26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dunas26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br />
 <br />
-
-### Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/johnjamesvalencia/" target="blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johnjamesvalencia/" height="30" width="40" /></a>
-</p>
 
 ## Before beginning
 
@@ -95,7 +100,7 @@ Looking forward to learn
 - Vercel
 - Railway
 
-### 🎖 Other tools
+### 🎖 My setup
 
 - NeoVim as my main editor
 - VSCode as my backup editor
